@@ -1,0 +1,626 @@
+Welcome!
+
+Open the Exam Live page now and keep it open during the exam
+      The URL for the Exam-Live page is 
+      https://www.openlearning.com/unswcourses/courses/sec-2020/exam-live/
+
+See below and read carefully the protocol for asking questions on the Exam-Live page (so you do not inadvertently engage in exam misconduct )
+
+Exam announcements will be made on the open learning announcements page/email notifications.
+
+Emergency announcements will be emailed directly to you at the address we used to send you this exam.
+
+If openlearning goes down any critical exam information will also be posted on 
+http://www.cse.unsw.edu.au/~cs6441/offlineOL.html
+
+
+Edit your answers directly into this file replacing "NOT ANSWERED" and submit this file 
+before the end time using the submission instructions on ExamCentral page.  If all else 
+fails submit by email to cs6441@cse.unsw.edu.au.  But PLEASE only email as LAST resort.  
+Lachlan has to manually deal with each paper submitted this way.
+
+Exam below.  
+
+
+= UNSW Security Engineering COMP6441 and COMP6841 Final Theory Exam: 2020t1 =
+=== 6441 -> 180 marks + 5 bonus marks / 4 hours ===
+=== 6841 -> 120 marks + 5 bonus marks / 4 hours ===
+v1.5
+
+There is a 5 mark bonus if you correctly follow all exam instructions.  
+
+There are 14 questions, all worth equal marks, but don't answer them all:
+COMP6441 students only answer 12 questions.
+COMP6841 students only answer 8 questions.  
+
+=== Extra note for 6841 students ===
+6841 students also complete a 60 mark technical exam (sent to you one hour into the exam 
+in a separate document) which runs concurrently with this exam.  You will need to allocate 
+your time between the two exams yourself.  Both start and finish at the same time.
+=== end 6841 note ===
+
+If you are doing a pen and paper version of the exam write your name and student number below and sign.  If you are doing the exam electronically type in your details and sign the affirmation by typing your name where indicated.
+
+{{{
+          Name: Pei Wang
+Student Number: z3290805
+  Which course: COMP6441
+   I assert this work is wholly my own work except where I have explicitly acknowledged.  I have not contacted any other person about this exam during the exam period.  I will keep the exam confidential until Sunday 8pm.
+ Sign/Type your name: Pei Wang
+}}}
+
+
+If you are not answering a question write NOT ANSWERED in the answer area(s). We think the earlier questions are easier than the later ones so we suggest you choose to answer those questions but it is entirely up to you.  Do not answer more than the required number of questions.  If you answer more than the required number of questions then we will ONLY mark the FIRST questions you answered.  
+
+DO NOT edit/add/delete ANY text ANWHERE outside of the answer areas indicated.  That will muck up poor Lachlan having to split up and extract your answers for marking using scripts.  You will lose the bonus marks for following instructions if you do this.
+
+Make frequent backup copies of your completed exam paper as you go so if anything goes wrong you do not lose much work.  There are no time extensions for accidentally deleting work - that is a foreseeable and mitigable risk for security professionals.
+
+Type/write your answers into the indicated areas and submit via give using the instructions on the exam central page. You must use a text editor (eg NOT Microsoft Word) and submit a text only file.  We cannot mark an answer file with formatting like italics or containing non-ascii characters etc.  You may submit your answer file as many times as you like over the duration of the exam. The last submission ONLY will be marked.  If you have problems submitting you can email your exam answer paper (in text only format) to cs6441@cse.unsw.edu.au.
+
+This is a logged open book exam.  You may READ anything you like on the internet or in books etc but you must disclose what you have read.  Below paste the titles of any books you consult and the urls of any documents/webpages you consult:  
+
+
+Books I consulted:
+<insert book names here the first time you consult each book>
+NOT ANSWERED
+
+Web pages I read:
+<insert URLs here each time you consult a web page>
+https://wordcounter.net/
+https://en.wikipedia.org/wiki/The_China_Syndrome
+https://stackoverflow.com/questions/119390/specify-the-from-user-when-sending-email-using-the-mail-command
+https://www.linkedin.com/in/peter-w-cooper/?originalSubdomain=au
+https://support.google.com/mail/thread/12028080?hl=en
+https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
+https://blueboard.io/resources/amazon-andon-cord/
+https://en.wikipedia.org/wiki/Ethereum_Classic#51%_Double_Spend_Attack
+
+You may not WRITE or SHARE anything on the internet or with any other person during this exam with the exception for asking questions described below.  You cannot communicate with any other person or share any information including the exam paper. This includes making comments on the course web pages or make any comments anywhere including sms, texts, on social media / chats etc.  You cannot make or answer phone calls.  Violating these read-only restrictions is regarded as cheating and will result in 0 fail and possible charges of academic misconduct and even more serious penalties.  But mainly it’s not the honourable thing to do.
+
+
+Permitted Communication 
+(start at the top of the list and only move down if needed)
+      
+You are permitted to contact the exam supervisor in the following ways:
+1. 
+You can ask about the process of the exam and ask for clarification about rules or typos in the question wording (but do not give any hints about answer content) by making comments on the Exam-Live page.  THIS IS THE ONLY PAGE YOU CAN MAKE COMMENTS ON DURING THE EXAM PERIOD. The URL for the Exam-Live page is 
+
+      https://www.openlearning.com/unswcourses/courses/sec-2020/exam-live/
+
+2. You can also email cs6441@cse.unsw.edu.au with question but that may not be noticed as quickly as comments.  
+3. In case of last resort you can call or message us on the exam mobile phone number which we will tell you on the morning of the exam.  
+
+Updates on the exam will be posted on the Exam-Live page.  Keep the page open all exam and refresh it regularly for updates.  
+
+If you are unsure about anything ask the supervisor.
+
+Please do not discuss the exam or content at all with anyone until Sunday 8pm or reveal anything about the questions. There are a number of people around the world doing the exam at later times – they will all be finished by Sunday 8pm Sydney time.  You can write a indication of joy/relief/support on the Exam-Live page at the end of the exam if you are happy that you finished, but please no more until Sunday 8pm.  Examples below:
+
+Good examples (permitted)
+Yay!  
+So glad I am now free and can relax unlike Richard and the other markers who now have to work without pause for a week.  Mwahahaha!
+Now I will sleep for days
+
+Bad examples (not permitted before sunday 5pm,as they reveal something about the exam itself)
+That was easy
+That was hard
+I am so glad there was no question about sony playstations
+It's unfair there was a question about Apollo 13!  I didn't realise the case studies were examinable.
+
+The use of Top Men, misdirection, or unauthorised social engineering is prohibited.
+
+If you think a question is ambiguous, answer the most likely interpretation and state what you have done. Where two or more different answers are possible give the answer which best answers the question. If you need to make assumptions state them. Keep answers brief and clear.  Stick to the word limits.  When you order things put the most important things first.  Make sure you explain your thinking to demonstrate your analysis where ever asked.
+
+Have fun.  Be yourself.  You are a great thinker I can't wait to see what you come up with.
+
+
+{{{
+This part consists of twelve 15-mark questions.  Do not answer all the questions.
+Suggestion: Aim to spend 15 minutes per question.  That will leave you a spare hour at the end.
+}}}
+
+
+=== Question 1 ===
+(15 Marks)
+List the top six instances in the film "The China Syndrome" which show examples of human error.  
+For each identify what happened and the contribution it made to both the potential 
+likelihood and the potential impact of a catastrophe.  
+List the most signifiant instances first.
+
+1. Instance [5-10 words]
+The welding on the pump was not properly examed with X-Ray.
+What Happened [5-25 words]
+The person whose name was Roger was being irresponsible and handin the same X-Ray scan every year for 6 years. 
+Contribution to potential likelihood [25-125 words]
+The contribution to the likelhood would be high because the welding is supposedly checked annualy. Failing to check for 6 consecutive years could amplied the risk by at lest 6 times. Assume the damaged welding worsens by 20% every year, and the right eqquuipment could tolerent 1 unit of damaged welding (standard deviation), the magnitude of the faulty part would be (1+0.2)^6 = ~3 units exceeding the standard by the 6th year. By normal distribution, the probability of an accident goes beyond 95%.
+Contribution to potential impact [25-125 words]
+The impact would be catastrohic. And this instance has a direct contribution. As shown in the end of the movie, the metal arm used to hold the pump broke which caused the whole structure vibrating violently. Another component of the structure fell. The powerplant was not safe to operate at all. Had Jack not turned down the capacity, the whole power plant could be flood with radio active water. The core of the power plant may also melt down resulting in the China syndrome. As said in the movie, the heated material could create a radioactive cloud unpon contacting water underground with the size of Pennsylvania killing everything in its path.
+
+2. 
+Instance [5-10 words]
+After the initial incident, the investigation team did not look for the root cause. 
+What Happened [5-25 words]
+An investigation team inquisit the Jack's team after the incident. The inquisiti took a long time but no effort was spent on investigating the actual issue. 
+Contribution to potential likelihood [25-125 words]
+The contribution to the likelhood would also be high, because this is part of the safty procedure put inplace by the law. Not following procedure would result in the failing of the systeem. As Jack elaborated to Kimberly in the bar, there are multiple layers of backup for backups. The purpose of the investigation committee is supposed to find the root cause of the accident, but instead they were looking for a scape goat and the report only addressed the issue as a faulty turbine. The commitee gave green light for the power plant to operate again, which lead to the Jack at the cost of his life to highjack the powerplant for the saftey of the public. 
+Contribution to potential impact [25-125 words]
+The constirbution is quite explicit. People appointed by the government was reckless that they did not follow the procedure to resolve the accident. This wasted a chance to save the power plant by find the root cause in the time when the root cause is supposedly found.
+
+3. 
+Instance [5-10 words]
+After the initial scram, a puddle of radioactive water was found. 
+What Happened [5-25 words]
+Godell found the water was leaking but management did not accept his prosal of delaying the restart.
+Contribution to potential likelihood [25-125 words]
+High. Obviously the powerplant was not operatinve normally and there is evidence to show. Yet management was pushing for the restart negligence to the fact, which is a recipe for diaster. 
+Contribution to potential impact [25-125 words]
+High. The pump is leaking water which is a evidence the existence of faulty part. Being negligent mean the management is willing to operate with damaged equipements which contribute to the impact. 
+
+4. 
+The XRay guy sent thugs to stop evidence being presented to the hearing.
+What Happened [5-25 words]
+The person named Roger tried to save his job by intentionaly stopping evidence being presented and the hired thug caused a car accident.
+Contribution to potential likelihood [25-125 words]
+High. Had evidence been presented Jack would not have to take radical measurement highjacking the plant. 
+Contribution to potential impact [25-125 words]
+High. People were willing to put their own interest before the safety of the public. 
+
+5. 
+Instance [5-10 words]
+Management prioritized profit over safety
+What Happened [5-25 words]
+The plant was lossing half a million dollar per day not operate so management wants to restarts the plant ASAP.
+Contribution to potential likelihood [25-125 words]
+Medium. Management was being negligent to safty.
+Contribution to potential impact [25-125 words]
+Medium. Management was being negligent to safty. The powerplant would still work most of the time, but there is a risk of something is wrong. 
+
+6. 
+Instance [5-10 words]
+Jack felt the vibration in the SCRAM but thought it was a turbine issue. 
+What Happened [5-25 words]
+Vibration was felt during the SCRAM, which was resolved. Jack did not put additional thought into it until more evidence is found. 
+Contribution to potential likelihood [25-125 words]
+Low. Jack did eventually come around and started his own investigation, but he missed the best time to present evidence to the committee. 
+Contribution to potential impact [25-125 words]
+Low. People makes mistake and could be dismisive but the issue should still be found as long as the system keeps everything in check. 
+
+
+=== Question 2 ===
+(15 Marks)
+Suppose a data breech has just been announced at Melbourne University and you have been approached by the communications team at Random University to comment on a letter they would like to send to all staff and students  (PDF attached)
+
+How useful is this email likely to be? Analyse its strengths and weaknesses, and draft (in point form) an alternative email you suggest they send instead.
+ 
+How useful:  [1 number between 0 and 10, 0 meaning not at all useful and 10 being incredibly useful]
+ 8
+Strengths: [50-250 words]
+ The email is what I expected an email as such would be. It addressed the incident without giving too much detail on the vulnerability that cause the incident. It provide suggestions with links in dot form for the receivers. It also provides contact details for additioncal informations.
+
+Weaknesses: [50-250 words]
+ Obviously the staff of the university would have access to more sensitive information comparing to setudent yet the same email is sent to both parties. Assuming this is all Random university has done, which is not enough. A seperate email should be sent to the staff and professors addressing if not enforcing the application of the said security measures. 
+ 
+Your alternative email:  [100-500 words] 
+(bullet points are fine no need to write the whole thing just let us know what it contains)
+ * write a seperate email exclusively to staff and professors 
+ * outline the penalty for not complying such as not locking computers, for not installing the anti-virus software. 
+ * give bonus or shot outs to personnels who complies withe the rules in time
+Explain the main differences about your email: [50-250 words]
+ The main difference would be the change of purpose in the email sent to staff. It takes in form of an order rather than suggestions. 
+
+
+=== Question 3 ===
+You are applying for the role of Director of Security Operations at a major international airline.  Your first task will be to oversee the design, build, and operation of a new Operation Center to detect and co-ordinate response to security incidents and emergencies.  (For simplicity assume that this is an entirely new setup and you will not have to worry about security in the period until the center goes live in 12 months time - in the interim the Interim director will be operating the old center.)
+
+The interviewers ask you to outline what insights the Apollo 13 Mission provides you in the three sub-questions below
+
+
+Q3.1 Should there be a seperate Cyber Operations Center or should there be one combined center for all incident and emergency response? [1 word SEPERATE or COMBINED]
+ COMBINED
+Justify your decision [15-75 words]
+ There should not be a seperate Cyber Operations Center because of Command and Control. In an emergency, the command center should consolidate all resource and authority to push for action given the scarcity of time. The order should be precise and efficient. Should there be multiple parties making decisiosn then an aggreement would have to be reached which would waste vaulable time. 
+List and explain any insight(s) from Apollo 13 Mission which contributed to your decision above [25-125 words]
+ When the LEM capsule was running out of air or having too much CO2, it took a whole team of engineer to build a filter out of scraps with what is onboard. The engineers did a splendid job as a team. They did not waste time arguing with a seperate command center on what would be the better approach or who has the better design of the filter. 
+
+
+
+Q3.2 What are the 3 main insights that the Apollo13 Mission provides which are relevant to how you will DESIGN the center? Most significant insights first. Don't repeat insights already given in Q3.1 above.
+
+1.
+Insight [10-75 words]
+ There is a massive dashboard in the front of the control room with the most crucial information. Such information must be shared and visible to all personnels in the room to make sure everyone is on the same page. 
+How it affects the design [20-100 words]
+ There must be a central command room. And the massive dashboard must be presented in the command room.
+2.
+Insight [10-75 words]
+ The system on the LEM has to be rebooted before re-entry and it could not use more than 20 amps. Ken who was falsed diagnosised with measle did many test runs on the replica on the ground to make sure the starting procedure works. 
+How it affects the design [20-100 words]
+ Always have replica of what the cock pit of the planes in the center so the personnels on the ground could refine the plan before providing it to the people in the air. 
+ 
+3.
+Insight [10-75 words]
+ The mathmatician are all present in the central command room. When manually calculation has to be made to confirm the calculations made by the astronauts, they were able to do so efficiently. 
+How it affects the design [20-100 words]
+ People with crucial skills to the success of the operation must be present and sit together in the control room. 
+  
+  
+Q3.3 What are the 3 main insights that the Apollo13 Mission provides which are relevant to how you will OPERATE the center? Most significant insights first. Don't repeat insights already given in Q3.1 above.
+
+1.
+
+Insight [10-75 words]
+ Gene who was the director in the movie made multiple critical decisions while also setting the goal for the whole NASA team that giving up is not an option.
+How it affects the design [20-100 words]
+ There must be a person in charge. The person must be able to access all the information and there must be infrastruces to make sure his or her orders are delivered to everyone effecitly.
+ 
+2.
+Insight [10-75 words]
+ During an incident, all resources was consolidated. In the movie, the found out want the equipments can do in addition to what they were designed to do by contacting all manufactures. 
+How it affects the operation [20-100 words]
+ The operating center should have a complete understanding what they are capable of doing in an emergency. All contact details of the supplychain should be available. 
+
+  
+3.
+Insight [10-75 words]
+ The center was operated with abosulte trust and authority. The military, the president and the media was informed but they were never part of the decision making process. 
+How it affects the operation [20-100 words]
+ The decision made by the command should be absolute with no interference from other parties. 
+  
+
+=== Question 4 ===
+
+Yahoo logs and tracks users of its services and websites and those of its affiliates.  By one measure it is estimated to generate over 2,500 records per month for each of its visitors.  
+
+In October 2016, Reuters reported that Yahoo! had created software to search their customers e-mail at the request of the NSA or FBI.  Also, according to the Washington Post in 2013 the NSA tapped Yahoo's internal optical fibre network and in the previous 30 days had "intercepted" and recorded 181 million new records from Google and Yahoo! internal networks.
+
+You use Yahoo for email. If you didn't trust Yahoo to secure the data it collects on you, to what extent would encrypting your emails before you sent them solve this problem?
+
+[A] It would completely solve the problem
+[B] It would largely, but not entirely, solve the problem
+[C] It would have a small impact, but the problem would remain largely unsolved
+[D] It would not be of any help whatsoever
+
+To what extent?  [one letter, A or B or C or D - see above for meaning]
+ B
+
+Justify your answer: [60-300 words]
+ While every encrypted message could be decrypted, the goal here is to make decrypting of a message extremly long that it is not worth the effort from NSA or FBI to do so. It is possible with either a shared secret code of AES256 or RSA with public and private keys. However the government could still try to get the secret which makes the encryption possible with its overwhelming power comparing to an individual. They could try taking the secret key of AES256 or private key of RSA by force such as breaking into your house or where every a person is hiding then take your hardware by force. Afterall, there is no way for one to be absolutely anonymous because everything leaves a trace. By encrypting the message it would also raise suspicion from the government that they will focus on decrypting the message being sent by you. 
+
+
+
+=== Question 5 ===
+This question involves devising (but not executing) a way to effectively and realistically perform social engineering on UNSW's CISO.  You must not do anything illegal rude disrespectful or invasive in the real world in preparing for this question, or inconvenience or annoy or alarm the CISO or anyone who works for or with or knows them.  Most importantly you are not to invade the privacy of their family or personal life in any way.  You are restricted to looking at publicly available information and otherwise using entirely passive methods.
+
+What is the name of the UNSW CISO? [0-2 words]
+ Peter Cooper
+Name one significant (but not personal or intrusive) thing about the UNSW CISO you learned in your recon? [0-75 words]
+ He has been in this role for 1 year and 7 month and there are news that UNSW is looking for a new CISO since Jan this year. He may not be in this position for long. 
+Clearly explain a simple and safe social engineering strategy an an attacker could follow to have the CISO visit a webpage they control.  (To be clear - don't actually do this in the real world - you could face charges and/or be expelled from uni).  Assume the attacker has roughly the same access and resources that you yourself have available to you. [80-400 words]
+
+ I would write the email by spoofing the From attribute. 
+ https://stackoverflow.com/questions/119390/specify-the-from-user-when-sending-email-using-the-mail-command
+ The email would involve social engineering:
+ From: administration@unsw.edu.au
+ Subject: [Confidential] CISO Handover Documents
+ Hello Mr.Cooper,
+ I hope this email would find your in good health and spirit.
+ As we discussed previously, it was in the university's best interest to have a new CISO. Given the sensitivity of the information disclosed to the position, we require you to complete the none disclosure form with your consent in the following link as part of the hand over procedure. 
+ [link]
+ As a reminder this is confidential. Legal charges will be pressed should this information be shared to a third party. Thank you for your understanding. 
+ kind regards,
+ UNSW Administration team
+
+
+All marks for the strategy response, none for the recon responses. You'll be assessed on how realistic, specific, simple, effective, non-risky, time consuming (sooner is better than later!) your strategy is, and how likely the attacker is to be successful.
+
+
+=== Question 6 ===
+This question consists of three quick mini-questions.  5 marks each.
+
+6.1 How would you reply to the following (good) posted question?
+"Hi Richard, a friend accidentally clicked show contents (images) in a spam email, would my friends device or account be at risk?"
+
+Your response post: [60-300 words]
+ The device would not be at risk by showing the image. However, if the spammer is tracking the image, showing the image would inform the spammer that you have received the email because a request has to be sent to access the image. Such request has information about your friend's device in the header but it is not critical. The spammer amy send more email his or her way. 
+
+
+
+6.2 After noticing how easily SECedu student Brian was able to brute force decrypt the sample encrypted exam we sent out on Wednesday (see image BriansBrain.png) I thought of a different way (described below as method B) that we could arrange the protection of the exam paper which might provide extra security. Although it is too late to implement method B in time for the exam this year, we could use it next year - should we?  
+
+The proposed new method B: 
+ * Zip all the exam files into an archive, and use the zip program's own aes feature to encrypt the archived files using a passphrase.  
+ * Then use openssl to further encrypt the encrypted zip file using a second passphrase and something like 
+       openssl enc -aes-256-cbc -in examfiles.zip -out examfiles.zip.enc -md sha256 
+ * mail everyone the file examfiles.zip.enc
+ * at the start of the exam: email both passphrases to everyone.  
+ 
+Having two layers of encryption should provide more security than just having one.
+
+Should we use Method B next year?  (yes/no)  [1 word]
+ No
+
+Why? [60-300 words]
+ The reason that Brain was able to bruteforce the password was because the password was too simple. It is too short. Language wise with each letter counted as a bit then there is 5 bits of security. That was the reason why a longer password was used for the test and the actual final exam zip file. "love what you do and do what you love" has 37 characters ~= 37 bits of security. Method B is security through obscurity. There is nothing to gain from making the decrypting procedure more complex while missing the actual issue. 
+
+
+
+6.3  Puzzle
+One of the rabbits in the accompanying file Rabbit.png doesn't have a twin.  Can you spot it?  OK you can't get a uni degree for that.  But suppose the problem was made a bit harder and scaled up in some way(s). eg more rabbits, more features, triplets not twins, ...  
+
+Describe how you solved the problem (or how you would solve the scaled up problem if that would be different) [60-300 words]
+ The bunnies are identified by the brown fur pattern on different parts on the body. I would use a machine learning algorithm that is capable of identifying different body part and the patterns on the body parts. Then group similar bunnies together to isolate the ones that does not have a twin or triplet. Then exam the isolated ones with some human effort to confrim the finding. 
+
+OK which bunny was it? [5-25 words]
+ The one on the second last row second last column. Brown in both ears and on the month.  
+
+(PS I love the work of the creator of this puzzle - you could spend your post exam isolation time basking in his awesome website at http://thedudolf.blogspot.com/)
+
+
+=== Question 7 ===
+
+The police have asked your advice.  A company is offering them an app for their smart phones which, if they point the phone's camera at someone, identifies them instantly and displays their corresponding drivers licence number. Each state already kindly provides the police with all the Australian Drivers License photos and numbers in real time. 
+
+Obviously that amount of data is too big to download onto police phones so the service that this company offers is that the company analyses the set of Australian photos each night by running a super secret AI training algorithm.  The algorithm generates a database which stores for each person a facial hash of some sort and their driver's licence number.  The database is quite small, X bytes say, and the lastest version can be dowloaded onto phones each day.
+
+The police ask you if this sounds plausible to you?  Is it possible the database could just be X bytes in size?
+
+Answer the question assuming X is 10,000,000.
+Is it possible for the App to work as promised if the database was just 10 Megabytes in size?  [One word - YES or NO]
+no
+Justify your answer, include calculations [25-125 words]
+Australia has a population of 25 million. With 10MB of data, that is 0.4 bytes or about 3 bits of info per person. 3 bits of info is only enough to distinguish 2^3 = 8 people.  
+
+What is the switchover value?  How small could X be and have it be possible that their App could work as promised?  [one number]
+100,000,000
+Justify your answer, include calculations [75-750 words]
+2^25 =~ 32 million. About 25 bits of info is required to cover all the population assuming every one has a license. 25 bits is 3.125 or rounded up 4 bytes each person. 4*25mil = 100 mil bytes or 100 MB. 
+
+
+=== Question 8 ===
+A friend tells you about a problem her dad has, and asks you for your advice.
+
+He is a retired medical expert who has been making public comments critical of some other country's response to the Corona pandemic, and he has been getting a small online following.  A few days ago he woke to found abusive posts made under his name on his social media accounts - but he had not made them.  At the same time his website was defaced with some nationalistic content and remarks threatening him for telling lies about that country.  
+
+He is very worried that he has been hacked. 
+
+What should he do?  Buy new computers?  Start over from scratch? 
+
+List your recommendations about what he should do? [100 - 500 words]
+1 The first thing he should do is to change his password on a safe computer with antivirus software that he has not used before. 
+2 If the hacker has also change the password then he should recover his password. Contact the admin of the social platform if necessary.
+3 Once the password is changed, he should contact admin of the social platform to find trace of the hacker such as IP addresses. Then block these IP from accessing his account. Or block account from oversea to access his account.
+4 Connect his old computer to the internet. Monitor any unwanted web traffic. 
+5 Disconnect his old computer. Run anti virus software. Clear all temp files and cookies in the browser.
+6 Connect his old computer to the internet. Monitor any unwanted traffic again. Repeat 4-6 until his is confident that his old computer is clean.
+7 optional: Disconnect his old computer from the internet and cherry pick files he needs for backup. Format the disk . 
+8 make sure his new password is different on different sites. Also make sure the password is complex enough. 
+
+Explain your reasoning behind making these recommendations. [160-800 words]
+The purpose of 1-3 is for damage control and prevent further damage being made. He should also make public annoucement that his account is hacked to minimize the damage. 4-7 is for getting rid of any virus including spyware on his likely compromised hardware. It involves identifying whether his computer is the cause of the issue. If the hardware is the issue then it needs to be cleaned(of virus). step 8 is to have a better security mindset. It makes sure his new password are less likely to be brute forced by a hacker. 
+
+
+****************************************************************
+******************* You have reached 8 Questions ***************
+****************************************************************
+Suggest you submit your current set of answers now, now just to be safe. 
+(recall: you can and should submit multiple times - we'll mark the last submission you make)
+
+If you are doing 6841 and have answered all the questions so far then you can stop now - Well done! You have answered the right number of questions.  Suggest you go back and revise and chew over and improve your answers and then start the 6841 prac exam.  Don't accidentally answer more than 8 questions!  
+
+COMP6441 students: keep going - if you have answered all the questions so far you have just 4 more questions left to answer
+****************************************************************
+****************************************************************
+
+
+=== Question 9 ===
+
+Suppose internet giant Gitzon is considering having its new authentication system store password hashes produced by a custom secret hash function (so that existing public rainbow tables can't be used to crack passwords).
+
+Do you recommend that they adopt this new approach? [1 word YES or NO]
+ NO 
+
+Briefly justify your answer [60-300 words]
+ It is difficult to get a hashing algorithm right. A lesser algorithm would be exposed to design flaws or vulnerabilites such as high hash collision, preimages attacks, length extension attacks. Never invent your own cryptography, you will get it wrong. 
+
+  
+Suppose Gitzon adopts this new authentication system, and suppose you are advising the Prime Minister who uses Gitzon is worried that some attacker may target him and break into his personal account.  To what extent would it be harder for the attacker to find his password if Gitzon stored salted hashes instead of just storing the hash directly?
+
+[A] It would make it much harder for them to find his password 
+[B] It would not make it much harder for them to find his password 
+To what extent?  [1 letter, A or B as described above]
+ A 
+
+Briefly justify your answer [60-300 words]
+ Adding a salt would give additional security that the attacker must not only find the right hashed value but also bruteforce the salt value (assuming there is no pattern to be found). It would be like the nouce in AES CTR mode. Theoretically, yt is still possible given enough time and computation power to crack the password. But realistically speaking, it would be too not feasible. 
+
+
+
+=== Question 10 ===
+Lachlan and I are going to use going to use Merkle Puzzles to securely discuss the exam questions the day before the exam runs (because he loves Merkle Puzzles).  I'll send him 1,000,000 encrypted mini-messages of the form:
+
+{{{
+   ...
+   ...
+   This is puzzle two hundred thousand and seventeen, the key is jHg4t5ct&rqSg
+   This is puzzle two hundred thousand and eighteen, the key is 3pojygv3x%wD?
+   ...
+   ...
+}}}
+
+Each mini-message is encrypted/hashed separately, with a different key.  For each of the following ciphers/hashes state whether or not it would be suitable to use to encrypt/hash the mini-messages in these circumstances, and give a brief reason for your answer:
+
+YES It would be suitable to use this
+ NO It would not be suitable to use this
+
+10.1 One Time Pad 
+Suitable? [1 word, YES or NO as described above]
+ Yes 
+Why? [30-150 words]
+ One time pad is secure as long as a new set of pad is used for every transaction.
+ 
+ 
+10.2 Ceasar Cipher
+Suitable? [1 word, YES or NO as described above]
+ NO 
+Why? [30-150 words]
+ There are patterns in English that gives clues about the plaintext message. There are more frequent words and characters which could allow a reverse engineering of the substituded letter combinations. 
+
+
+10.3 Vigenere
+Suitable? [1 word, YES or NO as described above]
+ NO 
+Why? [30-150 words]
+ The primary weakness of the Vigenère cipher is the repeating nature of its key. If a cryptanalyst correctly guesses the key's length, the cipher text can be treated as interwoven Caesar ciphers, which can easily be broken individually. 
+
+
+10.4 RSA (encrypted using a 512 bit public key)
+Suitable? [1 word, YES or NO as described above]
+ Yes 
+Why? [30-150 words]
+ As long as each party keep their own private key secret, the other party could encrypt the message with the first party's public key which could only be decrypted with the first party's private key. 
+
+
+10.5 SHA256
+Suitable? [1 word, YES or NO as described above]
+ Yes 
+Why? [30-150 words]
+ It is symmetric so as long as both party keeps the secret to themselves the encryption is safe. 256 bits is complex enough to prevent brute force. 
+
+
+
+
+=== Question 11 ===
+
+This question refers to the film "The China Syndrome" we watched in week 8, and the place and the time and the situations depicted in that film.  Suppose you were the security advisor to the President of the United States at the time.
+
+{{{
+	Kimberly: We could have been killed.
+   Executive: Isn't that stretching it a bit?
+    Kimberly: You think so?
+   Executive: They say you were never in danger
+
+   PR guy: I have an announcement. 
+           A few minutes ago, the situation was resolved.
+           The Ventana nuclear plant is secure.
+           I stress that the public was never in any danger.
+ Reporter: Was there any damage?
+   PR guy: Yes, but it was totally contained. A disturbed 
+           employee was humoured, so that we could regain control.
+ Reporter: Had he been drinking?
+   PR guy:  Yes, we think so.
+}}}
+
+Although there were two potentially catastrophic incidents neither led to a catastrophe occurring.  If it hadn't been for the particular character and actions of the operator Jack, and the co-incidental presence of Kimberly and her camera crew it is likely that the public would never even have known of the risk they had been in.  
+
+The President is horrified and askes you "Is it likely there are other catastrophic risks known to some people but of which I am not aware?  How can this be? What can be done to improve this situation, so I know the important things I need to know."
+
+Draft your reply (use bullet points and keep it brief - the US President is very busy!)
+
+Is it likely? [1-10 words]
+ Yes and definitely as our civilization becomes more efficient with more complex tools and infrastructures.
+ 
+How can this be? [25-125 words]
+ As we evolve as more efficient civilization, more complex tools and infrastructures always introduce new components that could have its problems. There will always be risks from hardware software malfunctioning to human errors. 
+
+What can be done? [100-500 words]
+ Probability and impact has to be accessed. Each could be classified as high and low. The 4 possible combinations should be dealt with balanced and reasonable plan and resources. The mostly overlooked combination is high impact low probaility incidents, such as the incident described in the film. The film described a scenario which cost was priotized over quality and time. As the preseident, what you could do is to make strict legislations to discourage such priotization. Also make channels available to report and react any concerns such as the "andon cord" mechanism to ensure adequate attention and resource are allocated to address the concern. 
+
+
+=== Question 12 ===
+Each of the numbers in the crossword grid image supplied (Crossword.png) stands for a particular letter.  
+
+Each vertical and horizontal line of letters is a valid English word.  
+Can you work out what letter each number stands for?
+
+Hint: 
+9 stands for T;
+11 stands for O; and 
+15 stands for N
+
+You don't need the two extra hints below - but they might be fun:
+
+Superflous hint: How cool are hacker movies?
+Superflous hint: What do hackers do?
+ 
+ Write one letter next to each number below [one letter per line]
+NOT ANSWERED
+ 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9 T
+10
+11 O
+12
+13
+14
+15 N
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+  
+****************************************************************
+******************* You have reached 12 Questions ***************
+****************************************************************
+
+If you are doing 6441 and have answered all the questions so far then you can stop now - Well done! You have answered the right number of questions.  Suggest you go back and revise and chew over and improve your answers. Don't accidentally answer more than 12 questions!  Also maybe do a submission now, just to be safe. 
+
+****************************************************************
+****************************************************************
+
+
+
+=== Question 13 ===
+Every year serious data breaches keep being reported.  For example Fortnite, Ascension, Dunkin' Donuts, Facebook, Microsoft, Canva...  Who else will be breached?
+
+Make a prediction: Who do you predict is most likely to be in the news over the remainder of this year with a major and "unexpected" data breach? No marks for any breach predictions already made on the class website.
+
+Who, and What data [5-25 words]  (be specific, don't say the government say the department of X's data on citizen hair colours)
+ NOT ANSWERED 
+
+Justify your prediction [100-500 words]
+ NOT ANSWERED 
+
+No marks for who, all marks for justify. 
+
+For fame and glory after the exam: If your prediction comes true contact us to let us know after the exam.  A BONUS 10 EXAM MARKS(!!) if it is first reported in the media after the day you sit the exam and before the day that results are submitted. If it comes true this year, but after marks are submitted then still an ice cream and glory for you!
+
+* Offer does not apply to employees or their families, or if you are involved in the breach.  Accessories not included.
+
+
+=== Question 14 ===
+
+Even when we use computer systems to replace trusted third parties we still have to trust the humans who build and design them.  Cite a well known / widely reported example from history or recent news which demonstrates this issue.
+
+Name the example and roughly when it happened [10-50 words]
+ The split of Ethereum and Ethereum classic in 2015
+
+Briefly describe what happened [25-125 words]
+ Ethereum is a digitial currency that rely on blockchain technology, which "use computer systems to replace trusted third parties". Any pool that achieves 51% hashing power can effectively overturn network transactions, resulting in double spending. Ethereum network was the victim of this attack. The currency splited to Ethereum and Ethereum classic, with the prior the rolled back version and latter the original version. 
+
+Briefly state how this demonstrates the issue [60-300 words]
+ The rollback in Ethereum was controversible because rolliing back was a human operation that goes against the idealogy of a self managed secured systemm. Depite being an effort made in good faith to recover from the hacking, it shows that every system would have its weakness which could be exploited. Human as the designer of the system would still have to invervene when things goes wrong. This gives rooms for human error and command and control. 
+
+Briefly state what are the lessons learned [60-300 words]
+ The lesson learned here is to always consider the possibility of system breach no matter how secure the system was designed to be. Always have multiple back up plan. Use threat model to exhaust all possible threat one could think of and make plan to deal with each threat accordingly. Test the system before launching it because the system is as secure as the tests that it can pass. Had Ethereum thought of this vulnerabilty and address it accordingly to prevent any one party to have 51% of computation power then there would not be a two versions of it now. 
+
+
+If the news story was not so well known give a URL of a news story or web page about the incident. [1 url]
+ https://en.wikipedia.org/wiki/Ethereum_Classic#51%_Double_Spend_Attack 
+
+
+

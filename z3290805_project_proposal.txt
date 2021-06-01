@@ -1,0 +1,35 @@
+
+Aim
+Learn how computer virus works and create a new virus with the knowledge obtained through research.
+
+Timeline
+week 2-3: Learn about the nature of existing computer viruses. Such as their purpose, spreading and implementation methods.
+week 4-7: Implement the virus.
+week 8: Compare it against other viruses. Create a report.
+
+Marking Criteria
+Weekly blog post to demonstrate what has been achieved. 50%
+
+    The blog post could be either the knowledge or the work log of code.
+    The content of each week should reflect efforts of 3 hours.
+    The nature of week 2-3 blog post should consists of observation and analysis.
+    The nature of week 4-7 should elaborate what has been achieved in the code.
+
+The virus code itself should be evaluated on: 25%
+
+    lethality: the impact/damage the virus is capable of dealing
+    benefit: what could I gain from victims of this virus
+    survivability: how stealth/detectable is the virus
+    infectivity: how quickly does the virus spread
+	method of evaluation: keep it contained. Setup a isolated environment such as a personal computer or a vm.
+
+The quality of the final report. 25%
+
+    It should summarize all blog posts and work logs
+    It should evaluate the virus
+
+FL: poor effort made in completing this project
+PS: demonstrate some understanding of how viruses work
+CR: demonstrate a good understanding of how viruses are spread, do damages. Attempted to apply the knowledge to create a virus.
+DN: create a virus that is capable of damaging the host in a controlled environment
+HD: create a virus that could potentially spread on the internet (without actually doing so)
